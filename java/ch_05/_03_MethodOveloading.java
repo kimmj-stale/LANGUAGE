@@ -7,6 +7,7 @@ public class _03_MethodOveloading {
         int num = n;
         return num * num;
     }
+    
     public static int multiply(String strn) {
         int strnum = Integer.parseInt(strn);
         return strnum * strnum;
